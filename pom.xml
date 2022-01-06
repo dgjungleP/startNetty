@@ -11,6 +11,7 @@
     <modules>
         <module>echo</module>
         <module>plainOio</module>
+        <module>embedded</module>
     </modules>
 <dependencies>
     <!-- https://mvnrepository.com/artifact/io.netty/netty-all -->
