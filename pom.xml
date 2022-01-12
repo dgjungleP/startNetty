@@ -13,6 +13,7 @@
         <module>plainOio</module>
         <module>embedded</module>
         <module>websocket</module>
+        <module>udp</module>
     </modules>
 <dependencies>
     <!-- https://mvnrepository.com/artifact/io.netty/netty-all -->
