@@ -12,6 +12,7 @@
         <module>echo</module>
         <module>plainOio</module>
         <module>embedded</module>
+        <module>websocket</module>
     </modules>
 <dependencies>
     <!-- https://mvnrepository.com/artifact/io.netty/netty-all -->
